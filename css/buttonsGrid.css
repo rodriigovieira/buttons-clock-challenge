@@ -1,0 +1,91 @@
+body {
+    width: 25%;
+}
+
+#btns {
+    width: 75%;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    text-align: center;
+}
+
+[id*="btn-text"] {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    float: left;
+}
+
+#btn1 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn2 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn3 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn4 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn5 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn6 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn7 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn8 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
+
+#btn9 {
+    height: 48px;
+    font-size: 24px;
+    background-image: linear-gradient( to bottom, white, #C0C0C0);
+
+    border: 0.2px solid gray;
+}
